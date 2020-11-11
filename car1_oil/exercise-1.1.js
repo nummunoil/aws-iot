@@ -72,12 +72,12 @@ function getCarData(deviceName) {
     };
     
     const device_data = { 
-        'car1': {
+        'car1_oil': {
             'vin': 'I5Z45ZSGBRZFU4YRM',
             'latitude':39.122229,
             'longitude':-77.133578
         },
-        'car2': {
+        'car2_oil': {
             'vin': 'ETWUASOOGRZOPQRTR',
             'latitude': 40.8173411,
             'longitude': -73.94332990000001
